@@ -1,0 +1,14 @@
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/guessingGame.deps.json
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/guessingGame.runtimeconfig.json
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/guessingGame.runtimeconfig.dev.json
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/guessingGame.dll
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/guessingGame.pdb
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.csprojAssemblyReference.cache
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.csproj.CoreCompileInputs.cache
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.AssemblyInfoInputs.cache
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.AssemblyInfo.cs
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.dll
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/obj/Debug/netcoreapp2.1/guessingGame.pdb
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/stephanieparker/Projects/Csharp-Projects/guessingGame/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
